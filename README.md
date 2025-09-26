@@ -1,4 +1,4 @@
-# task4# Task 4: Aggregate Functions and Grouping
+# Task 4: Aggregate Functions and Grouping
 
 ## 🎯 Objective
 Use aggregate functions and grouping to summarize and analyze tabular data.
